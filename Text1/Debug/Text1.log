@@ -1,0 +1,42 @@
+﻿  TTextMem.cpp
+  TText.cpp
+c:\users\й\desktop\visual studio\text1\text1\textlink.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\й\desktop\visual studio\text1\text1\ttext.cpp(70): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note:  см. объявление "strncpy"
+c:\users\й\desktop\visual studio\text1\text1\ttext.cpp(80): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note:  см. объявление "strncpy"
+c:\users\й\desktop\visual studio\text1\text1\ttext.cpp(92): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note:  см. объявление "strncpy"
+c:\users\й\desktop\visual studio\text1\text1\ttext.cpp(243): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\й\desktop\visual studio\text1\text1\ttext.cpp(279): error C2678: бинарный "!=": не найден оператор, принимающий левый операнд типа "std::ifstream" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\visual studio 2015\vc\include\system_error(409): note: может быть "bool std::operator !=(const std::error_condition &,const std::error_condition &) noexcept"
+  c:\program files (x86)\visual studio 2015\vc\include\system_error(402): note: или       "bool std::operator !=(const std::error_condition &,const std::error_code &) noexcept"
+  c:\program files (x86)\visual studio 2015\vc\include\system_error(395): note: или       "bool std::operator !=(const std::error_code &,const std::error_condition &) noexcept"
+  c:\program files (x86)\visual studio 2015\vc\include\system_error(388): note: или       "bool std::operator !=(const std::error_code &,const std::error_code &) noexcept"
+  c:\program files (x86)\visual studio 2015\vc\include\exception(353): note: или       "bool std::operator !=(const std::exception_ptr &,std::nullptr_t) throw()"
+  c:\program files (x86)\visual studio 2015\vc\include\exception(348): note: или       "bool std::operator !=(std::nullptr_t,const std::exception_ptr &) throw()"
+  c:\program files (x86)\visual studio 2015\vc\include\exception(343): note: или       "bool std::operator !=(const std::exception_ptr &,const std::exception_ptr &) throw()"
+  c:\users\й\desktop\visual studio\text1\text1\ttext.cpp(279): note: при попытке сопоставить список аргументов "(std::ifstream, int)"
+  TEXTWORK.cpp
+c:\users\й\desktop\visual studio\text1\text1\textlink.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\й\desktop\visual studio\text1\text1\textwork.cpp(6): warning C4068: неизвестная директива pragma
+  textlink.cpp
+c:\users\й\desktop\visual studio\text1\text1\textlink.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\й\desktop\visual studio\text1\text1\textlink.cpp(7): warning C4101: Line: неиспользованная локальная переменная
+  texters.cpp
+  targetver.cpp
+c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(5): error C2653: targetver: не является именем класса или пространства имен
+c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(7): warning C4508: targetver: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(10): error C2653: targetver: не является именем класса или пространства имен
+c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(11): error C2084: функция "int targetver(void)" уже имеет текст реализации
+  c:\users\й\desktop\visual studio\text1\text1\targetver.cpp(5): note: см. предыдущее определение "targetver"
+  stdafx.cpp
+  datvalue.cpp
+  datacom.cpp
+  Создание кода...
